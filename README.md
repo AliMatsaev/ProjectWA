@@ -1,5 +1,5 @@
-# ProjectWA
-This repository contains my training application for tracking goods in the warehouse
+# ProjectWA(Warehouse Accounting)
+This repository contains my training application for tracking goods in the warehouse.
 ----------------------------------------------------------------------------
 The project includes 5 classes: Product, Warehouse, Document, Menu, Main.
 ----------------------------------------------------------------------------
@@ -14,3 +14,4 @@ Class Menu describes the console menu for working with the application.
 Class Main is the main class for the starting this application.
 ----------------------------------------------------------------------------
 The application works in the console, and the user controls commands by entering text.
+------------------------------------------------------------------------------------
